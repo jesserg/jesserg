@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 I am Jesser and welcome to my profile.
 
 ## Skills

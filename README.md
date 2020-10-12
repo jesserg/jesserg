@@ -15,10 +15,10 @@ I have 3 years of experience as a Web Developer in non IT company in Nueva Ecija
   - AJAX
   - JQuery
   - WordPress
-  - Shopify (Beginer)
-  - CodeIgniter (Beginer)
-  - Drupal (Beginer)
-  - Ionic (Beginer)
+  - Shopify (Beginner)
+  - CodeIgniter (Beginner)
+  - Drupal (Beginner)
+  - Ionic (Beginner)
 
 <!--
 **jesserg/jesserg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

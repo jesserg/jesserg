@@ -1,5 +1,19 @@
 ### Hi there 👋
-I am Jesser welcome to my profile.
+I am Jesser and welcome to my profile.
+
+## Skills
+  - VueJS
+  - TailWind CSS
+  - Laravel
+  - PHP
+  - MySQL
+  - HTML
+  - CSS
+  - JavaScript
+  - AJAX
+  - JQuery
+  - WordPress
+  - Shopify
 
 <!--
 **jesserg/jesserg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
